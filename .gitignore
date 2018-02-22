@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -87,6 +88,8 @@ src/main/resources/templates/
 # Created by https://www.gitignore.io/api/java,maven
 
 ### Java ###
+=======
+>>>>>>> a268e3c9e3213ee6d83a5829938bad4494876093
 # Compiled class file
 *.class
 
@@ -109,6 +112,7 @@ src/main/resources/templates/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 ### Maven ###
 pom.xml.tag
@@ -141,3 +145,5 @@ buildNumber.properties
 # Maven
 log/
 target/
+=======
+>>>>>>> a268e3c9e3213ee6d83a5829938bad4494876093
